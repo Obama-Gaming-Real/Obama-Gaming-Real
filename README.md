@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [stools](https://github.com/Obama-Gaming-Real/stools)
 - 🌱 I’m currently learning go, haskell, and java
-- 💬 Ask me about animals and c=+
+- 💬 Ask me about animals and c++
 - 📫 How to reach me: On discord at Obama Gaming#4200
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a gamer and I like obama

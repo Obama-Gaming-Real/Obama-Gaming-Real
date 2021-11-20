@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![image](https://user-images.githubusercontent.com/68093909/142718461-41bb3870-4ce1-493a-abe9-95c16a185cf1.png)
+![6lhkmn1f85w71](https://user-images.githubusercontent.com/68093909/142723846-4c41871c-3340-4893-8e03-621d3fa2c81d.jpg)
 ### Hi there I'm Obama Gaming (cameron)
 
 - 🔭 I’m currently working on [stools](https://github.com/Obama-Gaming-Real/stools)
@@ -54,3 +54,4 @@ Here are some ideas to get you started:
 [![Obama's GitHub stats](https://github-readme-stats.vercel.app/api?username=Obama-Gaming-Real&theme=dracula&show_icons=true&)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Obama-Gaming-Real&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+

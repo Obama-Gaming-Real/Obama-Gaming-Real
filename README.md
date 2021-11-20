@@ -51,7 +51,8 @@ Here are some ideas to get you started:
 [![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)](https://archlinux.org) [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows) [![Chrome OS](https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white)](https://www.google.com/chromebook/chrome-os/) [![Lineageos](https://img.shields.io/badge/lineageos-167C80?style=for-the-badge&logo=lineageos&logoColor=white)](https://lineageos.org/)
 
 ### My Stats
-[![Obama's GitHub stats](https://github-readme-stats.vercel.app/api?username=Obama-Gaming-Real&theme=dracula&show_icons=true&)](https://github.com/anuraghazra/github-readme-stats)
+[![Obama's GitHub stats](https://github-readme-stats.vercel.app/api?username=Obama-Gaming-Real&theme=dracula&show_icons=true&)](https://github.com/anuraghazra/github-readme-stats)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Obama-Gaming-Real&theme=dracula)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Obama-Gaming-Real&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
